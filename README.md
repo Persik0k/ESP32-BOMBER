@@ -1,4 +1,4 @@
-**ESP32-BOMBER**  
+#ESP32-BOMBER#
 **Bluetooth Low Energy (BLE) Спам-Устройство на базе ESP32**  
 
 ---
